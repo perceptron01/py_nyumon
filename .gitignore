@@ -3,3 +3,5 @@
 __*
 .vscode
 *.jpg
+/.ipynb_checkpoints/
+
