@@ -4,4 +4,5 @@ __*
 .vscode
 *.jpg
 /.ipynb_checkpoints/
+/python_sample/
 
